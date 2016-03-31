@@ -20,10 +20,10 @@
 		"nette/utils": "~2.3.0",
 		"latte/latte": "~2.3.0",
 		"tracy/tracy": "~2.3.0",
-		"ipub/visual-paginator": "v1.0.2"
+		"ipub/visual-paginator": "v1.0.3"
 	},
 	"require-dev": {
 		"nette/tester": "~1.4",
-    "unu/ladyphp": "~0.3"
+    		"unu/ladyphp": "~0.3"
 	}
 }
