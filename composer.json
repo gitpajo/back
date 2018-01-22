@@ -23,7 +23,7 @@
 		"ipub/visual-paginator": "~1.0.3"
 	},
 	"require-dev": {
-		"nette/tester": "~1.7",
+		"nette/tester": "~2.0",
     		"unu/ladyphp": "~0.3"
 	}
 }
